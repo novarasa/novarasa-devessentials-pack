@@ -1,0 +1,45 @@
+{
+    "name": "novarasa-devessentials-pack",
+    "displayName": "Novarasa-DevEssentials-Pack",
+    "description": "VS Code Extensions for Cloud Native Development",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "dracula-theme.theme-dracula", 
+        "GitHub.github-vscode-theme", 
+        "googlecloudtools.cloudcode", 
+        "hashicorp.terraform", 
+        "humao.rest-client", 
+        "johnpapa.vscode-peacock", 
+        "lonefy.vscode-JS-CSS-HTML-formatter", 
+        "ms-azuretools.vscode-docker", 
+        "ms-ossdata.vscode-postgresql", 
+        "ms-python.python", 
+        "ms-python.vscode-pylance", 
+        "ms-toolsai.jupyter", 
+        "ms-toolsai.jupyter-keymap", 
+        "ms-toolsai.jupyter-renderers", 
+        "ms-vscode-remote.remote-containers", 
+        "ms-vscode-remote.remote-wsl", 
+        "naco-siren.gradle-language", 
+        "PKief.material-icon-theme", 
+        "redhat.fabric8-analytics", 
+        "redhat.java", 
+        "redhat.vscode-commons", 
+        "redhat.vscode-xml", 
+        "richardwillis.vscode-gradle-extension-pack", 
+        "richardwillis.vscode-gradle-preview", 
+        "VisualStudioExptTeam.vscodeintellicode", 
+        "vscjava.vscode-gradle", 
+        "vscjava.vscode-java-debug", 
+        "vscjava.vscode-java-dependency", 
+        "vscjava.vscode-java-pack", 
+        "vscjava.vscode-java-test", 
+        "vscjava.vscode-maven"
+    ]
+}
